@@ -82,7 +82,13 @@ it. This prevents invalid actions from inflating Q-value targets.
 **Policy Network:** Input(228) → Linear(256) → ReLU → Linear(256) → ReLU → Output(200)
 **Target Network:** Same architecture, synced every 200 gradient updates
 **Replay Buffer:** 50,000 transitions, mini-batches of 64
+“I selected Double DQN as the core method because it is more stable than vanilla DQN under sparse terminal rewards.”
 
+“I implemented action masking and masked target computation to improve correctness in the Chef’s Hat action-constrained setting.”
+
+“Due to runtime/time constraints, the full robustness suite (multi-seed, transfer opponent evaluation, and hyperparameter sweeps) is presented as a planned extension rather than fully executed experiments.”
+
+“The current results provide a validated baseline for Variant 5.”
 ---
 
 ## State Representation
