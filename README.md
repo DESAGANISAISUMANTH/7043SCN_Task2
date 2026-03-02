@@ -3,7 +3,7 @@
 **Name:** Sai Sumanth Desagani
 **Student ID:** 16464285
 **Variant:** Robustness and Generalisation (Student ID mod 7 = 5)
-**Video Viva:** 📹 [Add your video link here]
+
 
 ---
 
