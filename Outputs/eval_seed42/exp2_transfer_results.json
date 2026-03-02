@@ -1,0 +1,16 @@
+{
+  "author": "Sai Sumanth Desagani",
+  "id": "16464285",
+  "in_distribution": {
+    "opponent": "random",
+    "win_rate": 42.0,
+    "avg_score": 1.95,
+    "n": 200
+  },
+  "out_of_distribution": {
+    "opponent": "mixed",
+    "win_rate": 33.0,
+    "avg_score": 1.73,
+    "n": 200
+  }
+}

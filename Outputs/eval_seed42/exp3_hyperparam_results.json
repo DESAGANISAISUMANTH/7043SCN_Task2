@@ -1,0 +1,51 @@
+{
+  "author": "Sai Sumanth Desagani",
+  "id": "16464285",
+  "grid": [
+    {
+      "lr": 0.0001,
+      "epsilon_decay": 0.99,
+      "avg_reward_last50": 0.2931
+    },
+    {
+      "lr": 0.0001,
+      "epsilon_decay": 0.995,
+      "avg_reward_last50": 0.3612
+    },
+    {
+      "lr": 0.0001,
+      "epsilon_decay": 0.999,
+      "avg_reward_last50": 0.3275
+    },
+    {
+      "lr": 0.001,
+      "epsilon_decay": 0.99,
+      "avg_reward_last50": 0.3789
+    },
+    {
+      "lr": 0.001,
+      "epsilon_decay": 0.995,
+      "avg_reward_last50": 0.4591
+    },
+    {
+      "lr": 0.001,
+      "epsilon_decay": 0.999,
+      "avg_reward_last50": 0.4015
+    },
+    {
+      "lr": 0.005,
+      "epsilon_decay": 0.99,
+      "avg_reward_last50": 0.29
+    },
+    {
+      "lr": 0.005,
+      "epsilon_decay": 0.995,
+      "avg_reward_last50": 0.2929
+    },
+    {
+      "lr": 0.005,
+      "epsilon_decay": 0.999,
+      "avg_reward_last50": 0.3307
+    }
+  ]
+}
