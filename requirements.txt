@@ -1,0 +1,5 @@
+chefshatgym==3.0.0.1
+gym==0.26.2
+numpy==1.26.1
+torch>=2.0.0
+matplotlib>=3.8.0
