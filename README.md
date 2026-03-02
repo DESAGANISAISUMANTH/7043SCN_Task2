@@ -39,7 +39,6 @@ where this brittleness occurs and how it can be reduced.
     README.md             -- This file
     logs/                 -- Game logs generated during training/evaluation
     outputs/
-        dqn_agent.pth               -- Saved policy and target network weights
         dqn_metrics.json            -- Training metrics (1000 matches)
         dqn_training_plots.png      -- 6-panel training visualisation
         eval_results.json           -- Evaluation results
